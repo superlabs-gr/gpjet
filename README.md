@@ -1,10 +1,6 @@
-# gpjet
+# GPJet
 
-# gpjet
-
-This a repo containing all the necessary code and data for the paper<br>
-
-"GPJet: Active Learning of E-Jet Printing Dynamics with Physics-Informed Gaussian Processes"
+Learning of E-Jet Printing Dynamics with Physics-Informed Gaussian Processes
 
 <hr>
 
