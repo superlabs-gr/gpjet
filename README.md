@@ -4,8 +4,6 @@ Learning of E-Jet Printing Dynamics with Physics-Informed Gaussian Processes
 
 <hr>
 
-# Repo Taxonomy
-
 ## Part I: Computer Vision Module
 
 Description:<br>
