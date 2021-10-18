@@ -4,6 +4,11 @@ Learning of E-Jet Printing Dynamics with Physics-Informed Gaussian Processes
 
 <hr>
 
+## GPJet Code
+Learn how to set up the environment, run and use the code: [HERE](code/README.md)
+
+<hr>
+
 ## Part I: Computer Vision Module
 
 Description:<br>
