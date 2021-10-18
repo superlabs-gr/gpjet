@@ -1,0 +1,3 @@
+To run the GPJet framework download folder and install packages as reffered at gpjet.yml 
+Otherwise, open anaconda prompt and run:
+conda env create --file gpjet.yml

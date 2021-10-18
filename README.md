@@ -4,16 +4,16 @@ Learning of E-Jet Printing Dynamics with Physics-Informed Gaussian Processes
 
 <hr>
 
-# Paper Taxonomy
+# Repo Taxonomy
 
-## Part I: Jet Metrology Framework
+## Part I: Computer Vision Module
 
 Description:<br>
 
 Here we demonstrate a real time computer vision framework using OpenCV for 
 real-time feature extraction relevant to MEW process dynamics.
 
-- code: [LINK](jet-metrology/code)
+- code: [LINK](code/computer-vision-module/code)
     - sequential
     - concurrent 
     - parallel
@@ -23,21 +23,23 @@ real-time feature extraction relevant to MEW process dynamics.
     - processed videos after JM framework
     - jet feature extraction
   
-## Part II: Gaussian Process Regression
+## Part II: Machine Learning Module
 
 Description:<br>
 Surrogate modeling using jet metrology data.
 
-- code: [LINK](gpr/code) 
+- code: [LINK](code/machine-learning-module) 
 - data: [LINK](gpr/data)
 - results: [LINK](gpr/results)
 
-## Part III: Multi-fidelity GPR
+## Part III: Physics Module
 
-Description
+Description:<br>
 
-- code: [LINK](mf-gpr/code)
-- data: [LINK](mf-gpr/data)
+- Jet Diameter Model: [LINK](code/physics-module/)
+  - Results: [LINK](https://drive.google.com/drive/folders/1ECz8zNblBrMCLsar_Xa_uMdPCE_7fHOt?usp=sharing)
+- Mechanical Fluid Sewing Machine Patterns: [LINK](code/physics-module)
+  - Results: [LINK](https://drive.google.com/drive/folders/12BEIVG5AojBvJAgc5FIWn1XFlJVCJ3dS?usp=sharing)
 
 ## Part IV: Active Learning
 
