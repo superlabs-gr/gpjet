@@ -9,8 +9,7 @@ Learning of E-Jet Printing Dynamics with Physics-Informed Gaussian Processes
 ## Part I: Computer Vision Module
 
 Description:<br>
-
-Here we demonstrate a real time computer vision framework using OpenCV for 
+A real time computer vision framework using OpenCV for 
 real-time feature extraction relevant to MEW process dynamics.
 
 - code: [LINK](code/computer-vision-module/code)
@@ -41,9 +40,4 @@ Description:<br>
 - Mechanical Fluid Sewing Machine Patterns: [LINK](code/physics-module)
   - Results: [LINK](https://drive.google.com/drive/folders/12BEIVG5AojBvJAgc5FIWn1XFlJVCJ3dS?usp=sharing)
 
-## Part IV: Active Learning
 
-Description
-
-- code: 
-- data:
