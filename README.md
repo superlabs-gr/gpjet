@@ -25,7 +25,11 @@ real-time feature extraction relevant to MEW process dynamics.
 Description:<br>
 Surrogate modeling using jet metrology data.
 
-- code: [LINK](code/machine-learning-module) 
+- code: [LINK](code/machine-learning-module)
+  - GP Regression -> Surrogate Models
+  - Multi-Fidelity -> Surrogate Models & Physics Models
+  - Active Learning -> Surrogate Models
+  - Active Learning  -> Multi-Fidelity Models
 - data: [LINK](gpr/data)
 - results: [LINK](gpr/results)
 
