@@ -53,4 +53,8 @@ Description:<br>
 - Mechanical Fluid Sewing Machine Patterns: [LINK](code/physics-module)
   - Results: [LINK](https://drive.google.com/drive/folders/12BEIVG5AojBvJAgc5FIWn1XFlJVCJ3dS?usp=sharing)
 
+## Paper
 
+- Main: [LINK](manuscript)
+- Supplementary info: [LINK](https://drive.google.com/drive/folders/1DnewBwvhkdmO_0lkEcNFUemIIDVtPgUk?usp=sharing)
+- References: [LINK](https://app.readcube.com/library/3514bc4d-096b-4da5-a4cf-22f13e9075c1/all)
