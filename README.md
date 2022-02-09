@@ -1,6 +1,6 @@
 # GPJet
 
-Learning of E-Jet Printing Dynamics with Physics-Informed Gaussian Processes
+Learning of E-Jet Printing Dynamics with Physics-Informed Gaussian Processess
 
 <hr>
 
