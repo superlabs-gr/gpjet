@@ -15,9 +15,9 @@ real-time feature extraction relevant to MEW process dynamics.
     - sequential
     - concurrent 
     - parallel
-- data: [LINK](https://drive.google.com/drive/folders/1T5KFV0BZIe3SvaFVtMDVANbrJmCn5hfI?usp=sharing)
-    - pre-processed videos for JM framework 
-- results: [LINK](https://drive.google.com/drive/folders/1Dl1Jc7Z1xCP-lMfqmkhcrHiPVb4ccRSV?usp=sharing)
+- data: [LINK](https://drive.google.com/drive/folders/1kFALwARpGhZ1VKI2ImHqpedA_1iNfm9Y?usp=share_link)
+    - initially processed videos for JM framework (kommena ta aspra panw katw) 
+- results: [LINK](https://drive.google.com/drive/folders/1tQYqzo4206dvHiCcaMSUHDQfxvBOK3kd?usp=share_link)
     - processed videos after JM framework
     - jet feature extraction
   
