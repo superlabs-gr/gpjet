@@ -3,7 +3,14 @@
 Learning of E-Jet Printing Dynamics with Physics-Informed Gaussian Processes
 
 ## GPJet Code
-Learn how to set up the environment, run and use the code: [HERE](code/README.md)
+Learn how to set up the environment, run and use the code: [HERE](code/)  
+
+To run the GPJet framework download or clone the github repo and install packages as 
+referred at `gpjet.yml` 
+
+Otherwise, open anaconda prompt and run:
+
+`conda env create --file gpjet.yml`
 
 ## Part I: Computer Vision Module
 
