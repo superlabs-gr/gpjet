@@ -19,7 +19,7 @@ real-time feature extraction relevant to MEW process dynamics.
     - initially processed videos for JM framework (kommena ta aspra panw katw) 
 - results: [LINK](https://drive.google.com/drive/folders/1tQYqzo4206dvHiCcaMSUHDQfxvBOK3kd?usp=share_link)
     - processed videos after JM framework
-    - jet feature extraction
+    - these videos were used for jet feature extraction
   
 ## Part II: Machine Learning Module
 
@@ -32,13 +32,13 @@ Surrogate modeling using jet metrology data.
   - Active Learning 1 (AL1) -> Surrogate Models
   - Active Learning 2 (AL2)  -> Multi-Fidelity Models
 - dataset:
-  - GPR & AL1: [LINK](https://drive.google.com/drive/folders/1tFHWmyanFhN-GnEjM4IRvT9cyAWBOr6z?usp=sharing)
+  - GPR & AL1: [LINK](https://drive.google.com/drive/folders/1Xgb0l8LmB0Q7JQCHCJbmZAv1CEXCWetD?usp=share_link)
   - MFD & AL2: 
-    - High fidelity dataset from Computer Vision Module:
-      - [LINK](https://drive.google.com/drive/folders/1tFHWmyanFhN-GnEjM4IRvT9cyAWBOr6z?usp=sharing)
+    - High fidelity (extracted jet features) dataset from Computer Vision Module:
+      - [LINK](https://drive.google.com/drive/folders/1Xgb0l8LmB0Q7JQCHCJbmZAv1CEXCWetD?usp=share_link)
     - Low fidelity dataset from Jet Diameter Model:
-      - [LINK](https://drive.google.com/drive/folders/1ECz8zNblBrMCLsar_Xa_uMdPCE_7fHOt?usp=sharing)
-- results: [LINK](gpr/results)
+      - [LINK](https://drive.google.com/drive/folders/1i4h7oKqxGQJ2gbZmZluoAWMdpjW_O9XB?usp=sharing)
+- results: [LINK](...)
 
 ## Part III: Physics Module
 
@@ -48,9 +48,3 @@ Description:<br>
   - Results: [LINK](https://drive.google.com/drive/folders/1ECz8zNblBrMCLsar_Xa_uMdPCE_7fHOt?usp=sharing)
 - Mechanical Fluid Sewing Machine Patterns: [LINK](code/physics-module)
   - Results: [LINK](https://drive.google.com/drive/folders/12BEIVG5AojBvJAgc5FIWn1XFlJVCJ3dS?usp=sharing)
-
-## Paper
-
-- Main: [LINK](manuscript)
-- Supplementary info: [LINK](https://drive.google.com/drive/folders/1DnewBwvhkdmO_0lkEcNFUemIIDVtPgUk?usp=sharing)
-- References: [LINK](https://app.readcube.com/library/3514bc4d-096b-4da5-a4cf-22f13e9075c1/all)
