@@ -2,6 +2,11 @@
 
 Learning of E-Jet Printing Dynamics with Physics-Informed Gaussian Processes
 
+This Github repository contains all the data and code needed to replicate the results reported 
+in this paper:   
+
+[Oikonomou et al. (2023), "Physics-Informed Bayesian learning of electrohydrodynamic polymer jet printing dynamics", Communications Engineering, Nature](https://www.nature.com/articles/s44172-023-00069-0)
+
 ## GPJet Code
 Learn how to set up the environment, run and use the code: [HERE](code/)  
 
